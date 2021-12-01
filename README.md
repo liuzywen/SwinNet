@@ -8,6 +8,11 @@ The details are in
 DOI:
 https://dx.doi.org/10.1109/TCSVT.2021.3127149
 
+## Training Set
+2185
+https://drive.google.com/file/d/1fcJj4aYdJ6N-TvvxSZ_sBo-xhtd_w-eJ/view?usp=sharing
+2985
+https://drive.google.com/file/d/1mYjaT_FTlY4atd-c0WdQ-0beZIpf8fgh/view?usp=sharing
 
 ## Code
 链接：https://pan.baidu.com/s/1cfvbR6yZtdj2HF5WrOxLEA 

@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1mYjaT_FTlY4atd-c0WdQ-0beZIpf8fgh/view?usp=shari
 提取码：ipc5 
 
 
-## Pretraing Parameter
+## Pretraining Parameter
 Swin Transformer Parameter: https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth
 Ours: 
 链接：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 

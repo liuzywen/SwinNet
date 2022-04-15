@@ -13,8 +13,15 @@ https://drive.google.com/file/d/1fcJj4aYdJ6N-TvvxSZ_sBo-xhtd_w-eJ/view?usp=shari
 https://drive.google.com/file/d/1mYjaT_FTlY4atd-c0WdQ-0beZIpf8fgh/view?usp=sharing
 
 ## Code
-链接：https://pan.baidu.com/s/1cfvbR6yZtdj2HF5WrOxLEA 
-提取码：ithc
+链接：https://pan.baidu.com/s/1CXk_9rhwC54p_5ANGgIXhw 
+提取码：ipc5 
+
+
+## Pretraing Parameter
+Swin Transformer Parameter: https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth
+Ours: 
+链接：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 
+提取码：c4ix 
 
 ##  RGBD Result Saliency Maps 
 链接：https://pan.baidu.com/s/1jGL47H9hucbTxrNvj2uRXw 

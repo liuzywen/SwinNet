@@ -3,6 +3,7 @@
 The paper has been online published by IEEE Transactions on Circuits and Systems for Video Technology.
 
 The details are in http://arxiv.org/abs/2204.05585
+
 DOI:
 https://dx.doi.org/10.1109/TCSVT.2021.3127149
 
@@ -30,6 +31,8 @@ https://drive.google.com/file/d/1dQWrhO-LHVACDKCTrvdc6eIbcyH7Yzp_/view?usp=shari
 
 ## Pretraining Parameter
 Swin Transformer Parameter: https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth
+
+
 Ours: 
 链接：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 
 提取码：c4ix 

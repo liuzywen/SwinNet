@@ -7,6 +7,9 @@ The details are in http://arxiv.org/abs/2204.05585
 DOI:
 https://dx.doi.org/10.1109/TCSVT.2021.3127149
 
+Revision：
+[PDF] https://github.com/liuzywen/SwinNet/blob/main/SwinNetSubmit.pdf
+
 ## Training Set
 2185
 https://drive.google.com/file/d/1fcJj4aYdJ6N-TvvxSZ_sBo-xhtd_w-eJ/view?usp=sharing

@@ -36,9 +36,16 @@ https://drive.google.com/file/d/1dQWrhO-LHVACDKCTrvdc6eIbcyH7Yzp_/view?usp=shari
 Swin Transformer Parameter: https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_base_patch4_window12_384_22k.pth
 
 
-Ours: 
+
+Our RGB-D SOD Parameters: 
 链接：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 
 提取码：c4ix 
+
+Our RGB-T SOD Parameter: 
+链接：https://pan.baidu.com/s/1xuDNtr3x-Foi-o9QaYMWuw 
+提取码：nqh2 
+
+
 
 ##  RGBD Result Saliency Maps 
 链接：https://pan.baidu.com/s/1jGL47H9hucbTxrNvj2uRXw 

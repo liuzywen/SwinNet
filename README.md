@@ -19,11 +19,13 @@ https://drive.google.com/file/d/1fcJj4aYdJ6N-TvvxSZ_sBo-xhtd_w-eJ/view?usp=shari
 https://drive.google.com/file/d/1mYjaT_FTlY4atd-c0WdQ-0beZIpf8fgh/view?usp=sharing
 
 ## Testing Set
-链接：https://pan.baidu.com/s/1fN-AsBiKTbMRsye0Lr8K7g 
-提取码：l2u9 
 
-google
+
+Google
 https://drive.google.com/file/d/1dQWrhO-LHVACDKCTrvdc6eIbcyH7Yzp_/view?usp=sharing
+
+Baidu：https://pan.baidu.com/s/1fN-AsBiKTbMRsye0Lr8K7g 
+提取码：l2u9 
 
 
 
@@ -38,7 +40,7 @@ Our RGB-D SOD Parameters:
 Google: https://drive.google.com/file/d/1amFbdnGefUaej1NMb2EOVgsMoQ4zabe_/view?usp=sharing
 
 
-链接：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 
+Baidu：https://pan.baidu.com/s/1ouefnVNRfUwck3zNV9J2Dw 
 提取码：c4ix 
 
 Our RGB-T SOD Parameter: 
@@ -46,7 +48,7 @@ Our RGB-T SOD Parameter:
 Google： https://drive.google.com/file/d/1rD19-p7M2bv0btjZ11DoZZ3zY9qxXp03/view?usp=sharing
 
 
-链接：https://pan.baidu.com/s/1xuDNtr3x-Foi-o9QaYMWuw 
+Baidu：https://pan.baidu.com/s/1xuDNtr3x-Foi-o9QaYMWuw 
 提取码：nqh2 
 
 

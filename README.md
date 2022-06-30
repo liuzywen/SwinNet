@@ -44,6 +44,7 @@ Our RGB-T SOD Parameter:
 
 
 ##  RGBD Result Saliency Maps 
+Google: https://drive.google.com/file/d/1r072vcAtA7UHprRo1K1clLEZzDYAXCKc/view?usp=sharing
 链接：https://pan.baidu.com/s/1jGL47H9hucbTxrNvj2uRXw 
 提取码：4gas
 

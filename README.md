@@ -80,14 +80,13 @@ Baidu：https://pan.baidu.com/s/1EtKTNVPQAW_iLm8pA1POmQ
 If you find the information useful, please consider citing:
 
 ```
-@ARTICLE{liu2021,
+@article{liu2022,
   author={Liu, Zhengyi and Tan, Yacheng and He, Qian and Xiao, Yun},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-12},
-  doi={10.1109/TCSVT.2021.3127149}}
+  volume={32},
+  number={7},
+  pages={4486--4497},
+  year={2022}}
 ```
 If you have any question, please email  liuzywen@ahu.edu.cn

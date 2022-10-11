@@ -1,5 +1,7 @@
 # SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection
 
+![Image text](main.png)
+
 The paper has been online published by IEEE Transactions on Circuits and Systems for Video Technology.
 
 The details are in http://arxiv.org/abs/2204.05585

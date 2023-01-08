@@ -8,6 +8,8 @@ DOI:
 https://dx.doi.org/10.1109/TCSVT.2021.3127149
 
 Revision：[paper](https://github.com/liuzywen/SwinNet/blob/main/SwinNetRevision.pdf)
+
+![Main](images/main.png)
  
 
 ## Training Set
